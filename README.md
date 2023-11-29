@@ -33,5 +33,5 @@ Under construction ! :-)
 |3	|D1        |LED 3.0mm	|1	|	|	| |
 |4	|R1	      | SMD1260	|1	|680R	METALL | 680R	| |
 |5	|U1,U2	    |SOIC-16W	|2	| | | |
-|6	|J1        |SUB-D	|1	|ZIF HEADER| |  |
+|6	|J1        |SUB-D	|1	| | |  |
 
