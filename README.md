@@ -29,7 +29,7 @@ Under construction ! :-)
 |Id	|Designator	|Package	|Quantity	|Designation	|Reichelt part number	|Link  |
 |---|---|---|---|---|---|---|
 |1	|C1,C3,C5  |	SMD 1206	|3	|UF10-005	|100nF	| |
-|2	|C2,C4,C6   |	SMD Tantalum 7260	|3	|1N4150	|4.7µF	| |
+|2	|C2,C4,C6   |	SMD ELKO 7260	|3	| |4.7µF	| |
 |3	|D1        |LED 3.0mm	|1	|	|	| |
 |4	|R1	      | SMD1260	|1	|680R	METALL | 680R	| |
 |5	|U1,U2	    |SOIC-16W	|2	|DS2107S | | |
