@@ -1,9 +1,7 @@
 # Table of contents
 1. [SCSI Terminator PCB](#1)
-2. [Prototype adapter's pictures](#2)
-4. [Adapter onto the ALL-03 programmer](#3)
-5. [About the project files](#5)
-6. [BOM](#6)
+2. [What that ?!](#2)
+3. [BOM](#3)
 
 
 # SCSI Terminator PCB <a name="1"></a>
@@ -14,12 +12,11 @@
 Final version of the pcb's adapter.
 
 
-# What is it ?! <a name="2"></a>
+# What that ?! <a name="2"></a>
 This active terminator can be use to obtain a proper terminaison whatever the length of the SCSI bus.
 It must be connected onto the last device in the chain.
 
 # BOM <a name="3"></a>
-Here is the BOM made by Lolof. Thanks to him !
 
 |Id	|Designator	|Package	|Quantity	|Designation	|Reichelt part number	|Link  |
 |---|---|---|---|---|---|---|
