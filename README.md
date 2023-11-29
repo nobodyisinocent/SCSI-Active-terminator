@@ -2,7 +2,7 @@
 1. [What that ?!](#1)
 2. [Schematic](#2)
 3. [SCSI Terminator PCB](#3)
-4. [BOM](#3)
+4. [BOM](#4)
 
 # What that ?! <a name="1"></a>
 This active terminator can be use to obtain a proper terminaison whatever the length of the SCSI bus.
@@ -22,7 +22,9 @@ The schematic of the SCSI terminator is based on the original active version fro
 
 Final version of the pcb's adapter.
 
-# BOM <a name="3"></a>
+# BOM <a name="4"></a>
+
+Under construction ! :-)
 
 |Id	|Designator	|Package	|Quantity	|Designation	|Reichelt part number	|Link  |
 |---|---|---|---|---|---|---|
