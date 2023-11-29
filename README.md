@@ -20,7 +20,7 @@ The schematic of the SCSI terminator is based on the original active version fro
 ![PCB-UP](https://github.com/nobodyisinocent/SCSI-Active-terminator/assets/80821708/6df79685-b47a-4336-854d-dd28d023102e)
 ![PCB-DOWN](https://github.com/nobodyisinocent/SCSI-Active-terminator/assets/80821708/4a19606b-cb6c-4659-bd0b-f995d97ef486)
 
-Final version of the pcb's adapter.
+Final version of the pcb.
 
 # BOM <a name="4"></a>
 
