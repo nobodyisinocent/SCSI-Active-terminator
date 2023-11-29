@@ -1,20 +1,26 @@
 # Table of contents
-1. [SCSI Terminator PCB](#1)
-2. [What that ?!](#2)
-3. [BOM](#3)
+1. [What that ?!](#1)
+2. [Schematic](#2)
+3. [SCSI Terminator PCB](#3)
+4. [BOM](#3)
 
+# What that ?! <a name="1"></a>
+This active terminator can be use to obtain a proper terminaison whatever the length of the SCSI bus.
+It must be connected onto the last device in the chain.
 
-# SCSI Terminator PCB <a name="1"></a>
+The project has been designed with Kicad under Linux Mint.
+
+# Schematic <a name="2"></a>
+The schematic of the SCSI terminator is based on the original active version from Commodore
+
+![Schematics](https://github.com/nobodyisinocent/SCSI-Active-terminator/assets/80821708/0be7c675-997c-438d-95cc-4144b695d717)
+
+# SCSI Terminator PCB <a name="3"></a>
 
 ![PCB-UP](https://github.com/nobodyisinocent/SCSI-Active-terminator/assets/80821708/6df79685-b47a-4336-854d-dd28d023102e)
 ![PCB-DOWN](https://github.com/nobodyisinocent/SCSI-Active-terminator/assets/80821708/4a19606b-cb6c-4659-bd0b-f995d97ef486)
 
 Final version of the pcb's adapter.
-
-
-# What that ?! <a name="2"></a>
-This active terminator can be use to obtain a proper terminaison whatever the length of the SCSI bus.
-It must be connected onto the last device in the chain.
 
 # BOM <a name="3"></a>
 
