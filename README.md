@@ -32,6 +32,6 @@ Under construction ! :-)
 |2	|C2,C4,C6   |	SMD Tantalum 7260	|3	|1N4150	|4.7µF	| |
 |3	|D1        |LED 3.0mm	|1	|	|	| |
 |4	|R1	      | SMD1260	|1	|680R	METALL | 680R	| |
-|5	|U1,U2	    |SOIC-16W	|2	| | | |
-|6	|J1        |SUB-D	|1	| | |  |
+|5	|U1,U2	    |SOIC-16W	|2	|DS2107S | | |
+|6	|J1        |	|1	| | |  |
 
