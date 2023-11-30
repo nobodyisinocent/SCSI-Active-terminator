@@ -6,7 +6,7 @@
 
 # What that ?! <a name="1"></a>
 This active terminator can be use to obtain a proper terminaison whatever the length of the SCSI bus.
-It must be connected onto the last device in the chain.
+It must be connected after the last device in the chain.
 
 The project has been designed with Kicad under Linux Mint.
 
