@@ -31,7 +31,7 @@ Under construction ! :-)
 |1	|C1,C3,C5  |	SMD 1206	|3	|100nF|WAL 1206B104K500|https://www.reichelt.com/fr/en/Shopping-basket/5/index.html?ACTION=5&LA=3&nbc=1|
 |2	|C2,C4,C6  |	SMD ELKO |3	|4.7µF|| |
 |3	|D1        |LED 3.0mm	|1	|-|LED 3MM RT|https://www.reichelt.com/fr/en/del-3-mm-plomb-e-rouge-191-mcd-50--led-3mm-rt-p10228.html?&trstct=pos_1&nbc=1|
-|4	|R1	      | SMD1260	|1	|680R	METALL | 680R	|https://www.reichelt.com/fr/en/r-sistance-smd-r-sistance-couche-paisse-680-o-1-1206-rnd-1206-1-680-p183362.html?&trstct=pos_0&nbc=1|
-|5	|U1,U2	    |SOIC-16W	|2	|DS2107S |-|https://www.utsource.net/itm/p/11743518.html|
+|4	|R1	      | SMD1260	|1	|680R|RND 1206 1 680|https://www.reichelt.com/fr/en/r-sistance-smd-r-sistance-couche-paisse-680-o-1-1206-rnd-1206-1-680-p183362.html?&trstct=pos_0&nbc=1|
+|5	|U1,U2	    |SOIC-16W	|2	|DS2107S|-|https://www.utsource.net/itm/p/11743518.html|
 |6	|J1        |	|1	| | |  |
 
