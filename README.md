@@ -24,8 +24,6 @@ Final version of the pcb.
 
 # BOM <a name="4"></a>
 
-Under construction ! :-)
-
 |Id	|Designator	|Package	|Quantity	|Value	|Reichelt part number	|Link  |
 |---|---|---|---|---|---|---|
 |1	|C1,C3,C5  |	SMD 1206	|3	|100nF|WAL 1206B104K500|https://www.reichelt.com/fr/en/Shopping-basket/5/index.html?ACTION=5&LA=3&nbc=1|
