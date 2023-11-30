@@ -8,6 +8,13 @@
 This active terminator can be use to obtain a proper terminaison whatever the length of the SCSI bus.
 It must be connected after the last device in the chain.
 
+![1701377885340](https://github.com/nobodyisinocent/SCSI-Active-terminator/assets/80821708/533a37ad-7441-4480-b31e-ae7efc8c85cb)
+
+![1701377885332](https://github.com/nobodyisinocent/SCSI-Active-terminator/assets/80821708/00d00efe-0e72-4af2-87f1-60d398220e45)
+
+![1701377885323](https://github.com/nobodyisinocent/SCSI-Active-terminator/assets/80821708/085f4ee1-3c78-4fb6-ad46-2d9c7066e833)
+
+
 The project has been designed with Kicad under Linux Mint.
 
 # Schematic <a name="2"></a>
