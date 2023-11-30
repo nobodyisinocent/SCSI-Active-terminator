@@ -30,7 +30,7 @@ Under construction ! :-)
 |---|---|---|---|---|---|---|
 |1	|C1,C3,C5  |	SMD 1206	|3	|100nF|WAL 1206B104K500|https://www.reichelt.com/fr/en/Shopping-basket/5/index.html?ACTION=5&LA=3&nbc=1|
 |2	|C2,C4,C6  |	SMD ELKO |3	|4.7µF|HA-V 4,7U 25|https://www.reichelt.com/fr/en/smd-e-cap-radial-4-7-f-25-v-105-c-1000-h-20--ha-v-4-7u-25-p228530.html?&trstct=pol_10&nbc=1|
-|3	|D1        |LED 3.0mm	|1	|-|LED 3MM RT|https://www.reichelt.com/fr/en/del-3-mm-plomb-e-rouge-191-mcd-50--led-3mm-rt-p10228.html?&trstct=pos_1&nbc=1|
+|3	|D1        |3.0mm round type|1|LED|LED 3MM RT|https://www.reichelt.com/fr/en/del-3-mm-plomb-e-rouge-191-mcd-50--led-3mm-rt-p10228.html?&trstct=pos_1&nbc=1|
 |4	|R1	      | SMD1260	|1	|680R|RND 1206 1 680|https://www.reichelt.com/fr/en/r-sistance-smd-r-sistance-couche-paisse-680-o-1-1206-rnd-1206-1-680-p183362.html?&trstct=pos_0&nbc=1|
 |5	|U1,U2	    |SOIC-16W	|2	|DS2107S|-|https://www.utsource.net/itm/p/11743518.html|
 |6	|J1        |	|1	| | |  |
